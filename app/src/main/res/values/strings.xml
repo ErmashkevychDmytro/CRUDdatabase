@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CRUD Room Database</string>
+
+    //TextInputLayout
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">Surname</string>
+    <string name="hint_gender">Gender</string>
+    <string name="hint_age">Age</string>
+
+    //Button
+
+    <string name="save_button">Save</string>
+    <string name="update_button">Update</string>
+
+    //List item template
+    <string name="list_item_id">id</string>
+    <string name="list_item_name">name</string>
+    <string name="list_item_surname">surname</string>
+    <string name="list_item_gender">gender</string>
+    <string name="list_item_age">age</string>
+
+    //dialog
+    <string name="dialog_massage_delete_user_by_id">Are you sure to delete user ?</string>
+    <string name="dialog_massage_delete_user_all">Are you sure to delete all user ?</string>
+    <string name="dialog_title_delete_user_by_id">Delete user</string>
+    <string name="dialog_title_delete_user_all">Delete All user</string>
+    <string name="dialog_positive_button">OK</string>
+    <string name="dialog_negative_button">Cancel</string>
+
+
+    //Menu
+
+    <string name="menu_delete_all_users">Delete All Users</string>
+
+
+
+</resources>
+
